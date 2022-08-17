@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "780d9e10-4a1c-4d42-a801-d16619df8511": {
+      "ProjectGuid": "780d9e10-4a1c-4d42-a801-d16619df8511",
+      "DisplayName": "PackageService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
